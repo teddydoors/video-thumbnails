@@ -1,0 +1,12 @@
+
+/*Dailymotion thumnails
+*/
+
+https://www.dailymotion.com/thumbnail/video/{video_id}
+
+
+/*Youtube thumbnails
+*/
+
+http://i2.ytimg.com/vi/{video_id}/mqdefault.jpg
+http://img.youtube.com/vi/{video_id}/0.jpg
